@@ -1,5 +1,6 @@
-### Hi there 👋
 
+![Header](https://avatars0.githubusercontent.com/u/47280177?s=400&u=d2a3e9ea1328bf9037c7909b8f7c589dab1fc94b&v=4/<OWNER>/<OWNER>/readme_header.png "Header")
+### Hi there 👋
 <!--
 **kushagra31/kushagra31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
