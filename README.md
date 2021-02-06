@@ -44,7 +44,7 @@
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](www.linkedin.com/in/kushagra-madaan)
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Android | Java | Competitive Programming </h4>
    </p>
 
 
