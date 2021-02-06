@@ -25,7 +25,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/12fgztS23saCVa/giphy.gif" />
 <p align="center">
   <h3> I'm 23 years old | Engineer | Mobile App developer from India.</h3>
 </p>
@@ -75,7 +75,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy.gif" />
+   <img alt="GIF" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
    </p>
    
    
