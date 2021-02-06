@@ -2,12 +2,12 @@
 ![Header](https://avatars0.githubusercontent.com/u/47280177?s=400&u=d2a3e9ea1328bf9037c7909b8f7c589dab1fc94b&v=4/<OWNER>/<OWNER>/readme_header.png "Header")
 
 
-[1.1]][1]
-[2.1]][2]
-[3.1]][3]
-[4.1]][4]
-[5.1]][5]
-[6.1]][6]
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
