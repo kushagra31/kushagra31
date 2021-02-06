@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-   <a href="www.linkedin.com/in/kushagra-madaan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/kushagra-madaan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href=""><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="t"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/Kushagra31"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
@@ -41,7 +41,7 @@
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](www.linkedin.com/in/kushagra-madaan)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/kushagra-madaan)
  
  <p align="center">
   <h4> Android | Java | Competitive Programming </h4>
