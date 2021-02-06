@@ -21,23 +21,23 @@
 
  
  <h5 align="center">
-   <i>⚡️I wanted to be a writer, so now i do commit messages.⚡️</i>
+   <i>⚡️Wanted to be a writer, so now i do commit messages.⚡️</i>
   </h5>
  
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> I'm 23 years old Soontobe Engineer Mobile App developer from India.</h3>
 </p>
 
  - 🥀 Learning AI & ML
  
  - <i>with Android, Flutter, Angular and others.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 Scorsese FanBoi😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - 🛸 Into Movies Movies and Movies and music, i love chess too.
  
  
  - All About living life at its best.
